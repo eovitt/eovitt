@@ -18,20 +18,6 @@ Sou **Analista de TI**, apaixonado por tecnologia e resolução de problemas. At
 
 </div>
 
----
-
-## 📚 Github Stats: 📚
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eovitt&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eovitt&layout=compact&langs_count=16&theme=white"/>
-    </td>
-  </tr>
-</table>
 </div>
 
+---
