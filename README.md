@@ -28,7 +28,8 @@
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gviictor1/)
+- [LinkedIn](https://www.linkedin.com/in/gviictor1/)
+- [Monkeytype - Digitação](https://monkeytype.com/profile/eovitt1/)
 
 ---
 
