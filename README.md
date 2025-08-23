@@ -1,37 +1,54 @@
-# 👋 Olá, eu sou o Victor Gomes
-
-🎯 **Analista de TI** com grande entusiasmo por **tecnologia** e **resolução de problemas**. Atualmente, estou me especializando em **Cybersecurity** e consolidando uma base sólida em **Redes de Computadores**. Meu foco é evoluir continuamente e contribuir com soluções **seguras**, **eficientes** e **inovadoras** para os desafios do mundo da tecnologia.
-
----
-
-## 🚀 Sobre Mim
-
-- 🔐 Apaixonado por **Segurança da Informação** e boas práticas de **Infraestrutura de TI**  
-- 🎓 Estudando e praticando fundamentos de **Redes**, **Sistemas Operacionais** e **Respostas a Incidentes**   
-- 📈 Sempre em busca de crescimento técnico e profissional  
+<div align="center">
+  <h1>👋 Hey, eu sou o Victor Gomes!</h1>
+  <p>
+    <strong>Analista de TI</strong> | Apaixonado por <strong>Cybersecurity</strong> e <strong>Redes de Computadores</strong> <br>
+    Sempre buscando soluções <strong>seguras</strong>, <strong>eficientes</strong> e <strong>inovadoras</strong> para os desafios da tecnologia.
+  </p>
+</div>
 
 ---
 
-## 🛠️ Minhas Habilidades
+## 🌟 Sobre Mim
 
-| Ferramenta / Linguagem | Badge |
+Sou um entusiasta de tecnologia com foco em **Segurança da Informação** e **Infraestrutura de TI**. Estou constantemente aprimorando minhas habilidades em **Redes**, **Sistemas Operacionais** e **Respostas a Incidentes**, com o objetivo de construir um futuro mais seguro e conectado.
+
+- 🔐 Especializando-me em **Cybersecurity**  
+- 🌐 Apaixonado por **Redes de Computadores** e boas práticas de TI  
+- 📚 Sempre aprendendo e aplicando novos conhecimentos  
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+<div align="center">
+
+| Ferramenta / Linguagem | Nível |
 |------------------------|-------|
-| Excel                 | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| Power BI              | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) |
-| MySQL                 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| Python                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| HTML5                 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3                  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| JavaScript            | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Excel                 | <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"> |
+| Power BI              | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI"> |
+| MySQL                 | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> |
+| Python                | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> |
+| HTML5                 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> |
+| CSS3                  | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> |
+| JavaScript            | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> |
 
-
----
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/gviictor1/)
-- [Monkeytype - Digitação](https://monkeytype.com/profile/eovitt1/)
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e contribuir.
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/gviictor1/) &nbsp; 
+[<img src="https://img.shields.io/badge/Monkeytype-FF6347?style=flat-square&logo=monkeytype&logoColor=white" alt="Monkeytype">](https://monkeytype.com/profile/eovitt1/)
+
+</div>
+
+---
+
+<div align="center">
+  <p>⭐ <strong>Obrigado por visitar meu perfil!</strong> Explore meus repositórios e sinta-se à vontade para colaborar ou entrar em contato!</p>
+  <img src="https://komarev.com/ghpvc/?username=gviictor1&color=1E90FF&style=flat-square" alt="Contador de visitas">
+</div>
+
+---
+
