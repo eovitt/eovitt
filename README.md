@@ -18,6 +18,12 @@ Sou um entusiasta de tecnologia com foco em **Segurança da Informação** e **I
 
 ---
 
+## 📚 Certificações 
+
+- ![ITIL 4 Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-6A1B9A?style=for-the-badge&logo=itil&logoColor=white)
+- ![NSE 1](https://img.shields.io/badge/Fortinet%20NSE1-E6002C?style=for-the-badge&logo=fortinet&logoColor=white)
+- ![NSE 2](https://img.shields.io/badge/Fortinet%20NSE2-C3002F?style=for-the-badge&logo=fortinet&logoColor=white)
+
 ## 🛠️ Habilidades Técnicas
 
 <div align="center">
